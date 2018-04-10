@@ -1,0 +1,13 @@
+E:\workspace\zad2\src\main\java\domain\User.java
+E:\workspace\zad2\src\main\java\db\ConnectHSQLDB.java
+E:\workspace\zad2\src\main\java\web\Log.java
+E:\workspace\zad2\src\main\java\web\RegistrationServlet.java
+E:\workspace\zad2\src\main\java\web\filters\FilterA.java
+E:\workspace\zad2\src\main\java\repository\Repository.java
+E:\workspace\zad2\src\main\java\domain\Privilege.java
+E:\workspace\zad2\src\main\java\web\ChangePrivilegeServlet.java
+E:\workspace\zad2\src\main\java\web\ShowUsers.java
+E:\workspace\zad2\src\main\java\web\filters\FilterB.java
+E:\workspace\zad2\src\main\java\web\filters\SwitchToSite.java
+E:\workspace\zad2\src\main\java\web\filters\ChangePrivilegeFilter.java
+E:\workspace\zad2\src\main\java\repository\UserRepository.java

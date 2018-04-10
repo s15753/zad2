@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="testdb@localhost" uuid="06d16667-8601-4f16-8e7b-c83ff99acc2f">
+      <database-info product="HSQL Database Engine" version="2.4.0" jdbc-version="4.0" driver-name="HSQL Database Engine Driver" driver-version="2.3.4">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <introspection-schemas>PUBLIC:PUBLIC</introspection-schemas>
+    </data-source>
+  </component>
+</project>
